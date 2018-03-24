@@ -11,7 +11,7 @@
 	<!-- Jquery Core plugin JavaScript-->
 	<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
 	<!-- Boostrap Core plugin JavaScript-->
-	<script src="js/bootstrap-3.3.7.min"></script>
+	<script src="js/bootstrap-3.3.7.min.js"></script>
 	<!-- Jquery-ui Core plugin JavaScript-->
 	<script src="js/jquery-ui.min.js"></script>
 	<!-- Typeahead Core plugin JavaScript-->
