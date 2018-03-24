@@ -97,7 +97,7 @@ echo '
         $("#searchbox").typeahead({
             source: function (query, result) {
                 $.ajax({
-                    url: "server.php",
+                    url: "server-example.php",
 					data: "query=" +  query + "&category=" + category,
                     dataType: "json",
                     type: "POST",
